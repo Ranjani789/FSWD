@@ -1,7 +1,7 @@
-import Registration from "./Full Stack/Sample/Registration"
+import Form from "./Full Stack/Sample/Form"
 
 function App() {
-  return<Registration/>
+  return<Form/>
 }
 
 export default App
